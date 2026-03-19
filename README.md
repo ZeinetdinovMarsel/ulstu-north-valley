@@ -145,5 +145,4 @@
 ## Полезные ссылки
 
 - [Книга Pro Git (на русском)](https://git-scm.com/book/ru/v2)
-- [Интерактивный тур по Git (разрешение конфликтов)](https://githowto.com/ru/merge_conflicts)
 - [Шпаргалка по Git от GitHub](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
